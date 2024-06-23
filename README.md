@@ -60,14 +60,3 @@ Once the chatbot is up and running, you can interact with it through your Twilio
 - **Take an Audio Note**: Send an audio file, and the chatbot will convert it to text.
 - **Ask Anything**: Ask any question, and the chatbot will respond similarly to Brad AI.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this template further according to your project's specifics.
