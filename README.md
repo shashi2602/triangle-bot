@@ -1,6 +1,3 @@
-Here's a polished version of the description for your GitHub README:
-
----
 
 # Twilio Chatbot
 
